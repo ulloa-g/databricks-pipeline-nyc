@@ -27,3 +27,8 @@ Arrastra el archivo **nyc_zip_borough_neighborhoods_pop.csv**
 
 Cambia el nombre de la tabla a: **nyc_zip_codes**. Luego click en **Create table**. Más tarde haremos uso de esta información.
 ![](img/06_local_csv_to_table.png)
+
+### 4. ETL + EDA
+Importa el archivo ```/notebook/databricks-pipeline-nyc.ipynb```
+
+![](img/07_import_notebook.png)
