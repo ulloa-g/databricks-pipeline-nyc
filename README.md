@@ -32,3 +32,8 @@ Cambia el nombre de la tabla a: **nyc_zip_codes**. Luego click en **Create table
 Importa el archivo ```/notebook/databricks-pipeline-nyc.ipynb```
 
 ![](img/07_import_notebook.png)
+
+### 5. Resultados
+He dejado un archivo **.html** en este repositorio para que puedas ver mi trabajo. Por favor haz [click aquí]().
+
+![](img/08_results.png)
