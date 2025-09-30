@@ -34,6 +34,6 @@ Importa el archivo ```/notebook/databricks-pipeline-nyc.ipynb```
 ![](img/07_import_notebook.png)
 
 ### 5. Resultados
-He dejado un archivo **.html** en este repositorio para que puedas ver mi trabajo. Por favor haz [click aquí]().
+He dejado un archivo **.html** en este repositorio para ser renderizado en **Github Pages** y puedas ver mi trabajo. Por favor haz [click aquí](https://ulloa-g.github.io/databricks-pipeline-nyc/databricks-pipeline-nyc.html).
 
 ![](img/08_results.png)
