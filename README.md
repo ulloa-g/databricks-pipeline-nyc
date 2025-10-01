@@ -1,5 +1,21 @@
-# databricks-pipeline-nyc
+# Databricks + PySpark pipeline-EDA
+## Objetivos
+Este proyecto tiene como objetivo conocer la plataforma de databricks y los servicios que brinda para la *ingeniería de datos*.
 
+Se aborda desde la perspectiva de una pipeline de datos con un análisis exploratorio utilizando **PySpark** y **SQL**.
+
+## Estructura del repositorio
+```
+databricks-pipeline-nyc/
+├── img/ # Imágenes de soporte para el README.md
+├── input_data/
+|   └── nyc_zip_borough_neighborhoods_pop.csv
+├── notebook/
+│   └── databricks-pipeline-nyc.ipynb
+├── databricks-pipeline-nyc.html  # A renderizar por GitHub Pages.
+├── README.md
+```
+## Setup del entorno 
 ### 1. Crea una cuenta en [databricks](https://www.databricks.com/).
 
 ![](img/01_create_acc.png)
